@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Blacoste264/FizzBuzz#readme",
   "dependencies": {
+    "browserfy": "^1.0.0",
     "chai": "^4.1.0",
     "mocha": "^3.5.0"
   }
