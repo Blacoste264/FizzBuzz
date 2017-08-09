@@ -17,9 +17,5 @@ module.exports =
             }
         }
     }
-
-// // document.getElementById('btn').onclick = function handleClickEvent(ev) {
-// //         const val = document.getElementById('numInput').value;
-// //         fizzBuzz(val);
-// }
+    
 },{}]},{},[1]);
