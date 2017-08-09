@@ -15,5 +15,11 @@ describe('fizzBuzz', function () {
         it('Pass param 5 should return \'BUZZ\'', function () {
             expect(fizzBuzz(5)).to.equal('BUZZ');
         });
+        it('Pass param 5 should return \'FIZZ\'', function () {
+            expect(fizzBuzz(3)).to.equal('FIZZ');
+        });
+        it('Pass param 15 should return \'FIZZBUZZ\'', function () {
+            expect(fizzBuzz(15)).to.equal('FIZZBUZZ');
+        });
     })
 })
